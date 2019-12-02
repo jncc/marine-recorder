@@ -1,2 +1,2 @@
-# marine-recorder
-Marine Recorder Project
+# Marine Recorder Redevelopment
+Repo to track marine recorder redevelopment.
